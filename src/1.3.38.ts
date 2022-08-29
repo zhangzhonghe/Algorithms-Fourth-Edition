@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import Node from './utils/LinkedList'
+import Node from './libs/LinkedList'
 
 /**
  * 基于数组实现的版本

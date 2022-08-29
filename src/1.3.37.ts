@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import Queue from './utils/Queue'
+import Queue from './libs/Queue'
 
 function josephusExemple(N: number, M: number) {
   const result: number[] = []
